@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A81B4A23-AF18-4B01-8944-84D6FB3D4B47}") = "KendoUITabStrip1", "KendoUITabStrip1\KendoUITabStrip1.iceproj", "{98E887C5-90D1-4F9C-863C-1546D2F65423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E887C5-90D1-4F9C-863C-1546D2F65423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E887C5-90D1-4F9C-863C-1546D2F65423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E887C5-90D1-4F9C-863C-1546D2F65423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E887C5-90D1-4F9C-863C-1546D2F65423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
